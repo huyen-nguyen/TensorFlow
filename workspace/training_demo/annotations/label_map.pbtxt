@@ -1,0 +1,214 @@
+item {
+  id: 1
+  name: 'birdCall'
+}
+
+item {
+  id: 2
+  name: 'blueSunglasses'
+}
+
+item {
+  id: 3
+  name: 'brownDie'
+}
+
+item {
+  id: 4
+  name: 'cactusPaper'
+}
+
+item {
+  id: 5
+  name: 'canadaPencil'
+}
+
+item {
+  id: 6
+  name: 'carabiner'
+}
+
+item {
+  id: 7
+  name: 'cloudSign'
+}
+
+item {
+  id: 8
+  name: 'cowbell'
+}
+
+item {
+  id: 9
+  name: 'cupcakePaper'
+}
+
+item {
+  id: 10
+  name: 'eyeball'
+}
+
+item {
+  id: 11
+  name: 'foamDart'
+}
+
+item {
+  id: 12
+  name: 'gClamp'
+}
+
+item {
+  id: 13
+  name: 'giftBag'
+}
+
+item {
+  id: 14
+  name: 'glassBead'
+}
+
+item {
+  id: 15
+  name: 'gyroscope'
+}
+
+item {
+  id: 16
+  name: 'hairClip'
+}
+
+item {
+  id: 17
+  name: 'hairRoller'
+}
+
+item {
+  id: 18
+  name: 'lavenderDie'
+}
+
+item {
+  id: 19
+  name: 'legoBracelet'
+}
+
+item {
+  id: 20
+  name: 'metalKey'
+}
+
+item {
+  id: 21
+  name: 'miniCards'
+}
+
+item {
+  id: 22
+  name: 'noisemaker'
+}
+
+item {
+  id: 23
+  name: 'paperPlate'
+}
+
+item {
+  id: 24
+  name: 'partyFavor'
+}
+
+item {
+  id: 25
+  name: 'pinkCandle'
+}
+
+item {
+  id: 26
+  name: 'pinkEraser'
+}
+
+item {
+  id: 27
+  name: 'plaidPencil'
+}
+
+item {
+  id: 28
+  name: 'pumpkinNotes'
+}
+
+item {
+  id: 29
+  name: 'rainbowPens'
+}
+
+item {
+  id: 30
+  name: 'redBow'
+}
+
+item {
+  id: 31
+  name: 'redDart'
+}
+
+item {
+  id: 32
+  name: 'redWhistle'
+}
+
+item {
+  id: 33
+  name: 'rubiksCube'
+}
+
+item {
+  id: 34
+  name: 'sign'
+}
+
+item {
+  id: 35
+  name: 'silverStraw'
+}
+
+item {
+  id: 36
+  name: 'spiderRing'
+}
+
+item {
+  id: 37
+  name: 'stickerBox'
+}
+
+item {
+  id: 38
+  name: 'trophy'
+}
+
+item {
+  id: 39
+  name: 'turtle'
+}
+
+item {
+  id: 40
+  name: 'vancouverCards'
+}
+
+item {
+  id: 41
+  name: 'voiceRecorder'
+}
+
+item {
+  id: 42
+  name: 'yellowBag'
+}
+
+item {
+  id: 43
+  name: 'yellowBalloon'
+}
